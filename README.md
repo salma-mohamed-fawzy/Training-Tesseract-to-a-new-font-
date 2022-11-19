@@ -25,4 +25,4 @@ follow the following steps:
     C:\Program Files\Tesseract-OCR\tessdata
 15- Run tesseract for trained fronts
 and dont forget to replace "Blade" with the name of the font you want 
-
+This is a youtube video for more illustration: https://www.youtube.com/watch?v=1v8BPw0Dn0I&t=191s 
